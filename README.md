@@ -1,3 +1,3 @@
-# Hello-World
-New repository to learn the github
-Please do make changes for this file. It's urgent!!
+There is no code available for this branch.
+We will create new seperate branch later.
+Thanks!!
